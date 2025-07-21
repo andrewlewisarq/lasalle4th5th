@@ -1,0 +1,742 @@
+[
+  {
+    "id":"YY069_4thSpring",
+    "name":"SKIN TECHNOLOGY - YY069",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Spring",
+    "day":"Tuesday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY069_5thSpring",
+    "name":"SKIN TECHNOLOGY - YY069",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Spring",
+    "day":"Tuesday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY071_4thFall",
+    "name":"THE LIGHT AND THE SPACE - YY071",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Fall",
+    "day":"Thursday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY071_5thFall",
+    "name":"THE LIGHT AND THE SPACE - YY071",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Fall",
+    "day":"Thursday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY074_4thFall",
+    "name":"ARCH. NARRATIVES THROUGH IMAGE - YY074",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Fall",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY074_5thFall",
+    "name":"ARCH. NARRATIVES THROUGH IMAGE - YY074",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Fall",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY062_4thFall",
+    "name":"TECTONICS OF AIR - YY062",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY062_5thFall",
+    "name":"TECTONICS OF AIR - YY062",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY070_4thSpring",
+    "name":"SITE VISITS - YY070",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Spring",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY070_5thSpring",
+    "name":"SITE VISITS - YY070",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Spring",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY076_4thSpring",
+    "name":"WOOD STRUCTURES - YY076",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Spring",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY076_5thSpring",
+    "name":"WOOD STRUCTURES - YY076",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Spring",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY102_4thSpring",
+    "name":"INTERIOR DESIGN X - YY102",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY102_5thSpring",
+    "name":"INTERIOR DESIGN X - YY102",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY075_4thSpring",
+    "name":"PARAMETRIC DESIGN - YY075",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Spring",
+    "day":"Thursday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY075_5thSpring",
+    "name":"PARAMETRIC DESIGN - YY075",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Spring",
+    "day":"Thursday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY065_4thSpring",
+    "name":"URBAN CHALLANGES - YY065",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY065_5thSpring",
+    "name":"URBAN CHALLANGES - YY065",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY079_4thFall",
+    "name":"UNIT BCN S1 - YY079",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY079_5thFall",
+    "name":"UNIT BCN S1 - YY079",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY082_4thFall",
+    "name":"UNIT CAMPUS S1 - YY082",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY082_5thFall",
+    "name":"UNIT CAMPUS S1 - YY082",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY081_4thFall",
+    "name":"UNIT INTERNATIONAL S1 - YY081",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY081_5thFall",
+    "name":"UNIT INTERNATIONAL S1 - YY081",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY080_4thFall",
+    "name":"UNIT VISITING S1 - YY080",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY080_5thFall",
+    "name":"UNIT VISITING S1 - YY080",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY089_4thFall",
+    "name":"UNIT FAB S1 - YY089",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY089_5thFall",
+    "name":"UNIT FAB S1 - YY089",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY090_4thFall",
+    "name":"UNIT SUSTAINABILITY S1 - YY090",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY090_5thFall",
+    "name":"UNIT SUSTAINABILITY S1 - YY090",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY088_4thFall",
+    "name":"UNIT MATTER S1 - YY088",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY088_5thFall",
+    "name":"UNIT MATTER S1 - YY088",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY097_4thFall",
+    "name":"UNIT LANDSCAPE S1 - YY097",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY097_5thFall",
+    "name":"UNIT LANDSCAPE S1 - YY097",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY096_4thFall",
+    "name":"UNIT MASTER PLAN S1 - YY096",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY096_5thFall",
+    "name":"UNIT MASTER PLAN S1 - YY096",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY098_4thFall",
+    "name":"UNIT SMART CITY S1 - YY098",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY098_5thFall",
+    "name":"UNIT SMART CITY S1 - YY098",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY083_4thSpring",
+    "name":"UNIT BCN S2 - YY083",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY083_5thSpring",
+    "name":"UNIT BCN S2 - YY083",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY086_4thSpring",
+    "name":"UNIT CAMPUS S2 - YY086",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY086_5thSpring",
+    "name":"UNIT CAMPUS S2 - YY086",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY085_4thSpring",
+    "name":"UNIT INTERNATIONAL S2 - YY085",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY085_5thSpring",
+    "name":"UNIT INTERNATIONAL S2 - YY085",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY084_4thSpring",
+    "name":"UNIT VISITING S2 - YY084",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY084_5thSpring",
+    "name":"UNIT VISITING S2 - YY084",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Friday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY093_4thSpring",
+    "name":"UNIT FAB S2 - YY093",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY093_5thSpring",
+    "name":"UNIT FAB S2 - YY093",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY094_4thSpring",
+    "name":"UNIT SUSTAINABILITY S2 - YY094",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY094_5thSpring",
+    "name":"UNIT SUSTAINABILITY S2 - YY094",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY092_4thSpring",
+    "name":"UNIT MATTER S2 - YY092",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY092_5thSpring",
+    "name":"UNIT MATTER S2 - YY092",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY099_4thSpring",
+    "name":"UNIT MASTER PLAN S2 - YY099",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY099_5thSpring",
+    "name":"UNIT MASTER PLAN S2 - YY099",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY101_4thSpring",
+    "name":"UNIT SMART CITY S2 - YY101",
+    "type":"Elective",
+    "credits":9,
+    "semester":"4th Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY101_5thSpring",
+    "name":"UNIT SMART CITY S2 - YY101",
+    "type":"Elective",
+    "credits":9,
+    "semester":"5th Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY061_4thFall",
+    "name":"CONCURSOS - YY061",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY061_5thFall",
+    "name":"CONCURSOS - YY061",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Fall",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY052_4thFall",
+    "name":"VISITES D'OBRA - YY052",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Fall",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY052_5thFall",
+    "name":"VISITES D'OBRA - YY052",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Fall",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY066_4thFall",
+    "name":"ENERGY+ - YY066",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Fall",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY066_5thFall",
+    "name":"ENERGY+ - YY066",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Fall",
+    "day":"Tuesday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY064_4thFall",
+    "name":"CARTOGRAFIES TERRITORIALS - YY064",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY064_5thFall",
+    "name":"CARTOGRAFIES TERRITORIALS - YY064",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Fall",
+    "day":"Wednesday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY072_4thFall",
+    "name":"TREBALL COLABORATIU EN ENTORNS DIGITALS - YY072",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Fall",
+    "day":"Thursday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY072_5thFall",
+    "name":"TREBALL COLABORATIU EN ENTORNS DIGITALS - YY072",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Fall",
+    "day":"Thursday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY068_4thFall",
+    "name":"INSTALACIÓ EFÍMERA EN ESPAIS INTERIORS - YY068",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Fall",
+    "day":"Tuesday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY068_5thFall",
+    "name":"INSTALACIÓ EFÍMERA EN ESPAIS INTERIORS - YY068",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Fall",
+    "day":"Tuesday",
+    "start":"18:00",
+    "end":"20:00"
+  },
+  {
+    "id":"YY073_4thSpring",
+    "name":"FORMA I FABRICACIÓ DIGITAL - YY073",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Spring",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY073_5thSpring",
+    "name":"FORMA I FABRICACIÓ DIGITAL - YY073",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Spring",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY078_4thSpring",
+    "name":"GÈNERE - YY078",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Spring",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY078_5thSpring",
+    "name":"GÈNERE - YY078",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Spring",
+    "day":"Thursday",
+    "start":"15:00",
+    "end":"17:00"
+  },
+  {
+    "id":"YY063_4thSpring",
+    "name":"TECTÒNICA DE L'OBJECTE - YY063",
+    "type":"Elective",
+    "credits":3,
+    "semester":"4th Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"18:00"
+  },
+  {
+    "id":"YY063_5thSpring",
+    "name":"TECTÒNICA DE L'OBJECTE - YY063",
+    "type":"Elective",
+    "credits":3,
+    "semester":"5th Spring",
+    "day":"Monday",
+    "start":"15:00",
+    "end":"18:00"
+  }
+]
